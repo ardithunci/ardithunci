@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /> -->
 </div>
 
-</td></tr></table>  
-<br/>  
+</td></tr></table>   
 
 ## Connect with me  
 <div align="center">
