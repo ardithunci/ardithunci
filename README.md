@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<br/>
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
